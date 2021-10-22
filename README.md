@@ -5,6 +5,7 @@ The project is uploaded on the git hub without vendor and node module files. The
 
 After that, just introduce your database in the .env file and then run the following commands:
 
-<code> php artisan migrate </code>
-<br>
-<code>php artisan db:seed</code>
+
+    php artisan migrate
+    
+    php artisan db:seed
